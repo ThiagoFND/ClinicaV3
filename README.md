@@ -1,4 +1,4 @@
-<h1 align="center">🎲 Agenda</h1>
+<h1 align="center">🎲 Clinica version 3</h1>
 <p>O objetivo desta aplicação é desenvolver um software para clínica utilizando JPA e contendo tecnologias como Spring Security para validações.</p>
 
 ## :heavy_check_mark: Features
